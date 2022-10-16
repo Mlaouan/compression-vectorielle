@@ -1,1 +1,1 @@
-# compression-vectorielle-k-means
+# algorithe de compression-vectorielle
